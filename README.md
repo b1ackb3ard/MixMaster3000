@@ -1,3 +1,3 @@
 # MixMaster3000
 
-![Image of MM3000](https://photos.app.goo.gl/JG3APiBVoWuFdV4m6)
+![Image of MM3000](https://github.com/b1ackb3ard/MixMaster3000/main/)
